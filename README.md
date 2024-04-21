@@ -7,5 +7,5 @@ The code is open-source and free to use
 
 # API Key
 An API Key must be created while working on the code from [OpenWeather](https://openweathermap.org/)
-### Sign up and go Username ---> My API Keys and create one if needed
+### Sign up and go to "Username" ---> "My API Keys" and create one if needed
 Paste your API Key in the required columns while editing
